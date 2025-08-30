@@ -21,11 +21,11 @@
   <a href= ""><img src="" alt="Stackoverflow" width="60" height="60" /></a>
 </section-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiglebach&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdeldjalilchougui&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spiglebach&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdeldjalilchougui&theme=gruvbox)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiglebach&layout=compact&hide=shaderlab,hlsl&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjalilchougui&layout=compact&hide=shaderlab,hlsl&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
