@@ -79,11 +79,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdeldjalilchougui&theme=dracula" alt="Trophies" />
 </p>
-
-[![AbdeldjalilChougui's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdeldjalilchougui&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdeldjalilchougui&theme=gruvbox)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjalilchougui&layout=compact&hide=shaderlab,hlsl&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
