@@ -68,7 +68,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdeldjalilchougui&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green" alt="abdeldjalilchougui" />
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdeldjalilchougui&theme=blue-green)](https://git.io/streak-stats)
+<p align="center">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjalilchougui&theme=blue-green](http://github-readme-streak-stats.herokuapp.com?user=abdeldjalilchougui&theme=blue-green)" alt="abdeldjalilchougui" />
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjalilchougui&theme=blue-green" alt="abdeldjalilchougui" />
