@@ -68,6 +68,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdeldjalilchougui&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green" alt="abdeldjalilchougui" />
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdeldjalilchougui&theme=blue-green)](https://git.io/streak-stats)
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjalilchougui&theme=blue-green" alt="abdeldjalilchougui" />
 </p>
@@ -76,30 +78,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=abdeldjalilchougui&theme=dracula" alt="Trophies" />
 </p>
 
-<!--h2>👥Other profiles</h2>
-<section>
-  <a href= "https://spiglebach.itch.io/"><img src="" alt="itch.io" width="60" height="60" /></a>
-  <a href= ""><img src="" alt="Stackoverflow" width="60" height="60" /></a>
-</section-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdeldjalilchougui&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![AbdeldjalilChougui's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdeldjalilchougui&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdeldjalilchougui&theme=gruvbox)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjalilchougui&layout=compact&hide=shaderlab,hlsl&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
-**spiglebach/spiglebach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
