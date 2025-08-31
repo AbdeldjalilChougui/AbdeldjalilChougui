@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjalilchougui&theme=blue-green](http://github-readme-streak-stats.herokuapp.com?user=abdeldjalilchougui&theme=blue-green)" alt="abdeldjalilchougui" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=abdeldjalilchougui&theme=blue-green" alt="abdeldjalilchougui" />
 </p>
 
 <p align="center">
