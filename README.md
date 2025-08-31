@@ -65,15 +65,15 @@
 
 ---
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otahina&theme=blue-green" alt="otahina" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdeldjalilchougui&theme=blue-green" alt="abdeldjalilchougui" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otahina&theme=blue-green" alt="otahina" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjalilchougui&theme=blue-green" alt="abdeldjalilchougui" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otahina&theme=dracula" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdeldjalilchougui&theme=dracula" alt="Trophies" />
 </p>
 
 <!--h2>👥Other profiles</h2>
