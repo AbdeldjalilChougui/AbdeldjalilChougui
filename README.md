@@ -65,7 +65,7 @@
 
 ---
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdeldjalilchougui&theme=blue-green" alt="abdeldjalilchougui" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdeldjalilchougui&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green" alt="abdeldjalilchougui" />
 </p>
 
 <p align="center">
