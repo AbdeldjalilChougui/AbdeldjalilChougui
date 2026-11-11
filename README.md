@@ -108,11 +108,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdeldjalilchougui&layout=compact&theme=blue-green" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=abdeldjalilchougui&theme=blue-green" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdeldjalilchougui&theme=blue-green" alt="GitHub streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdeldjalilchougui&layout=compact&theme=blue-green" alt="Top languages" />
 </p>
 
 <!-- Backup set: github-profile-summary-cards (running for years) -->
@@ -121,7 +121,7 @@
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdeldjalilchougui&theme=dracula" height="170" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdeldjalilchougui&theme=dracula" height="170" alt="Top commit languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdeldjalilchougui&layout=donut&langs_count=8&theme=dracula&hide_border=true" height="170" alt="Top languages" />
 </p>
 
 <!-- Trophies -->
