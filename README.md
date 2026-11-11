@@ -102,18 +102,18 @@
 
 <br>
 
-<!-- Stats + top languages: github-stats-extended (community fork, same parameters as the original) -->
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdeldjalilchougui&theme=blue-green" alt="GitHub streak" />
-</p>
-
 
 
 <!-- Backup set: github-profile-summary-cards (running for years) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdeldjalilchougui&theme=dracula" alt="Profile details" />
 </p>
+
+<!-- Stats + top languages: github-stats-extended (community fork, same parameters as the original) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdeldjalilchougui&theme=blue-green" alt="GitHub streak" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdeldjalilchougui&theme=dracula" height="200" alt="Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdeldjalilchougui&layout=donut&langs_count=6&theme=dracula&hide_border=true" height="200" alt="Top languages" />
