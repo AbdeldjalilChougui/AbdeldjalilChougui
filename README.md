@@ -120,8 +120,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdeldjalilchougui&theme=dracula" alt="Profile details" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdeldjalilchougui&theme=dracula" alt="Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdeldjalilchougui&layout=donut&langs_count=6&theme=dracula&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdeldjalilchougui&theme=dracula" height="200" alt="Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdeldjalilchougui&layout=donut&langs_count=6&theme=dracula&hide_border=true" height="200" alt="Top languages" />
 </p>
 
 <!-- Trophies -->
