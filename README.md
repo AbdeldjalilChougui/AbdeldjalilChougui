@@ -102,18 +102,29 @@
 
 <br>
 
+<!-- Stats + top languages: github-stats-extended (community fork, same parameters as the original) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdeldjalilchougui&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=abdeldjalilchougui&show_icons=true&include_all_commits=true&theme=blue-green" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdeldjalilchougui&layout=compact&theme=blue-green" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abdeldjalilchougui&theme=blue-green" alt="GitHub streak" />
 </p>
 
+<!-- Backup set: github-profile-summary-cards (running for years) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjalilchougui&layout=compact&theme=blue-green" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdeldjalilchougui&theme=dracula" alt="Profile details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdeldjalilchougui&theme=dracula" height="170" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdeldjalilchougui&theme=dracula" height="170" alt="Top commit languages" />
 </p>
 
+<!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdeldjalilchougui&theme=dracula&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=abdeldjalilchougui&theme=dracula&column=7" alt="Trophies" />
 </p>
